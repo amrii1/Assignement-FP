@@ -5,7 +5,7 @@ Print the singly linked list in reverse using recursive approch. Run through the
 
 ## Installation
 
-Download/clone the package then compile.
+Download/clone the source code then compile.
 
 ```bash
 g++ -o output_path print_singly_linked_list_in_reverse.cpp
